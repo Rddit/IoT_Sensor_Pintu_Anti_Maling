@@ -1,0 +1,13 @@
+# Arduino / ESP32 build artifacts
+build/
+*.bin
+*.elf
+*.hex
+
+# Operating System Temporary Files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
+*.tmp
+*.log

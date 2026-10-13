@@ -1,0 +1,6 @@
+{
+    "sketch": "src/01_standalone_door_alarm/01_standalone_door_alarm.ino",
+    "board": "esp32:esp32:esp32",
+    "configuration": "UploadSpeed=115200",
+    "output": "build"
+}
