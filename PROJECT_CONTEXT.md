@@ -125,4 +125,6 @@
 - [x] Setup otomatis toolchain Arduino CLI, board ESP32, dan libraries (Blynk, Telegram, ArduinoJson)
 - [x] Instalasi dan konfigurasi ekstensi IDE mandiri (`vscode-arduino-community` & `vscode-serial-monitor`)
 - [x] Konfigurasi `.vscode/tasks.json`, `.vscode/settings.json`, dan `.vscode/c_cpp_properties.json`
-- [x] Uji coba kompilasi binary ESP32 sukses 100%
+- [x] Uji coba kompilasi binary ESP32 sukses 100% (Mode 1, Mode 2, Mode 3)
+- [x] Migrasi dan pemetaan menyeluruh arsitektur ke ESP32 38-Pin & Baseboard Breakout 38-Pin
+- [x] Publikasi repositori resmi ke GitHub: [Rddit/IoT_Sensor_Pintu_Anti_Maling](https://github.com/Rddit/IoT_Sensor_Pintu_Anti_Maling)
